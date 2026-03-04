@@ -84,4 +84,4 @@ Under the **shared responsibility model**, cloud service providers secure the *i
 
 ---
 
-*Part of the GRC & IT Audit Portfolio — Data Protection domain.*
+*Part of the Cybersecurity & GRC Portfolio — Data Protection domain.*
