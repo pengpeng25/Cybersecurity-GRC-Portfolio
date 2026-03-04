@@ -1,4 +1,4 @@
-# Cybersecurity GRC & IT Audit Portfolio
+# Cybersecurity & GRC Portfolio
 
 > Governance, Risk & Compliance projects demonstrating hands-on capability in compliance program design, risk assessment, data protection enforcement analysis, and IT audit methodology — built for advisory and consulting roles.
 
