@@ -73,7 +73,7 @@ Covers the full audit lifecycle from planning through reporting, with practical 
 
 ## Contact
 
-[LinkedIn](#https://www.linkedin.com/in/peng-peng-56961418/) · [Email](mailto:pengpengimt@gmail.com) *(update with your details)*
+[LinkedIn](#https://www.linkedin.com/in/peng-peng-56961418/) · [Email](mailto:pengpengimt@gmail.com) 
 
 ---
 
