@@ -1,6 +1,6 @@
 # Cybersecurity Program Development — CGT Inc. Case Study
 
-> > **Context**: This case study is the capstone project of the [Managing Cybersecurity Specialization](https://www.coursera.org/specializations/managing-cybersecurity) by Kennesaw State University on Coursera, completed September 2025. Five interconnected deliverables were developed for a simulated gaming company (CGT Inc.), covering the full lifecycle of a cybersecurity program — from team design to governance.
+> **Context**: This case study is the capstone project of the [Managing Cybersecurity Specialization](https://www.coursera.org/specializations/managing-cybersecurity) by Kennesaw State University on Coursera, completed September 2025. Five interconnected deliverables were developed for a simulated gaming company (CGT Inc.), covering the full lifecycle of a cybersecurity program — from team design to governance.
 ---
 
 ##  Scenario
@@ -56,4 +56,4 @@ Team Structure → Risk Management → Policies → Contingency Planning → Gov
 
 Each deliverable is designed to be **presentable to executive leadership**, reflecting the advisory communication style expected in GRC consulting roles.
 
->  *This case study was developed as part of a cybersecurity program development course, applying multiple frameworks to a realistic organizational scenario.*
+
