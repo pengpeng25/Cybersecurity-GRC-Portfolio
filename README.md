@@ -6,9 +6,7 @@
 
 ## About
 
-I'm a professional transitioning into cybersecurity GRC and IT audit, combining a background in **economics and business management** with focused study in information security frameworks, data protection regulation, and audit methodology.
-
-This portfolio contains structured, consultant-style deliverables — not course notes. Each project is designed as a work product that mirrors what an advisor would present to a client or internal stakeholder.
+I'm a professional transitioning into cybersecurity GRC and IT audit, combining a background in **economics and business management** with focused study in information security frameworks, and data protection regulation.
 
 ### Why Economics → GRC?
 
@@ -72,79 +70,6 @@ Covers the full audit lifecycle from planning through reporting, with practical 
 
 ---
 
-## Core Competencies Demonstrated
-
-| Competency | Where It's Shown |
-|---|---|
-| **Risk assessment & treatment** | Project 01 — weighted risk scoring, treatment plans, residual risk tracking |
-| **Compliance framework application** | Project 01 (ISO 27001/27005), Project 02 (GDPR), Project 03 (COBIT 2019) |
-| **Regulatory analysis** | Project 02 — enforcement pattern extraction, penalty trend analysis |
-| **Management system design** | Project 01 — ISMS scope, governance model, continuous improvement cycle |
-| **Audit methodology** | Project 03 — audit lifecycle, evidence collection, reporting |
-| **Cloud compliance awareness** | Project 02 — shared responsibility model, Azure vs. AWS tooling |
-| **Technical log analysis** | Project 03 — Linux auditd, Windows Event Viewer, SIEM concepts |
-| **Advisory communication** | All projects — structured as consultant deliverables, not academic exercises |
-
----
-
-## Repository Structure
-
-```
-Cybersecurity-GRC-Portfolio/
-├── README.md
-├── 01-GRC-Case-Studies/
-│   └── iso27001-risk-management/
-│       ├── README.md
-│       ├── docs/
-│       │   ├── 01-organizational-context.md
-│       │   ├── 02-asset-inventory.md
-│       │   ├── 03-threat-vulnerability-analysis.md
-│       │   ├── 04-risk-assessment-methodology.md
-│       │   ├── 05-control-gap-analysis.md
-│       │   ├── 06-governance-model.md
-│       │   ├── 07-remediation-roadmap.md
-│       │   └── 08-framework-selection-analysis.md
-│       └── assets/
-│           ├── risk-matrix-heatmap.png
-│           └── asset-ranking-chart.png
-├── 02-GDPR-enforcement-analysis/
-│       ├── README.md
-│       ├── docs/
-│       │   ├── 01-gdpr-legal-framework.md
-│       │   └── 02-enforcement-case-analysis.md
-│       └── assets/
-│           ├── enforcement-timeline.png
-│           └── fines-by-category.png
-└── 03-auditing-and-monitoring/
-    ├── README.md
-    ├── 01-Audit-Theory-and-Frameworks/
-    │   ├── 01-Introduction-and-Types.md
-    │   ├── 02-Framework-COBIT.md
-    │   ├── 03-Global-Standards.md
-    │   └── 04-Audit-Lifecycle.md
-    ├── 02-Monitoring-Strategy/
-    │   └── Logging-vs-Monitoring.md
-    ├── 03-OS-Practicals/
-    │   ├── Linux-Auditd.md
-    │   └── Windows-Events.md
-    └── 04-SIEM-Operations/
-        ├── 01-SIEM-Concepts.md
-        ├── 02-Splunk-Basics.md
-        └── 03-Wazuh-Implementation.md
-```
-
----
-
-## Target Roles
-
-This portfolio is designed for positions in:
-
-- **Information & Cyber Security Advisory** — compliance program design, GDPR, ISO 27001, risk assessment
-- **IT Audit & GRC Consulting** — audit methodology, management systems, regulatory compliance, risk identification and evaluation
-
-The projects demonstrate transferable skills applicable across domains: the methodology for assessing cybersecurity risk (Project 01) follows the same logic as evaluating HSE risk under D.Lgs. 231/2001 — asset identification, threat analysis, control evaluation, and residual risk treatment.
-
----
 
 ## Contact
 
