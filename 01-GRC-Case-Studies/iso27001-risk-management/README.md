@@ -1,7 +1,6 @@
 # ISO 27001 Risk Management — BSI Case Study
 
-> Enterprise risk assessment and treatment plan for a regional office supply retailer, applying ISO/IEC 27001 and a quantitative multi-criteria risk scoring methodology.
-
+> **Context**: This case study is the capstone project of the [Cybersecurity Risk Management Frameworks Specialization](https://www.coursera.org/specializations/cybersecurity-risk-management-frameworks) by Kennesaw State University on Coursera, completed February 2026. A full ISO 27001-aligned risk assessment was developed for a simulated regional retailer (BSI), covering asset classification, threat analysis, control mapping, and a 12-month remediation roadmap.
 ---
 
 ## Scenario
@@ -63,4 +62,4 @@ This project applies a **quantitative, economics-informed approach** to cybersec
 
 This methodology reflects enterprise risk practices used in advisory and audit engagements, where structured quantitative analysis supports defensible, evidence-based decision-making.
 
->  *This case study was developed as part of a cybersecurity risk management course, applying ISO 27001 principles to a realistic organizational scenario.*
+
