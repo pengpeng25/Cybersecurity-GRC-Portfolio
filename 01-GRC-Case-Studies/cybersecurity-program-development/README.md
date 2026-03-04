@@ -1,7 +1,6 @@
 # Cybersecurity Program Development — CGT Inc. Case Study
 
-> End-to-end cybersecurity program design for a gaming software company, covering organizational structure, risk management, policy framework, contingency planning, and governance — delivered as a 5-part consultant engagement.
-
+> > **Context**: This case study is the capstone project of the [Managing Cybersecurity Specialization](https://www.coursera.org/specializations/managing-cybersecurity) by Kennesaw State University on Coursera, completed September 2025. Five interconnected deliverables were developed for a simulated gaming company (CGT Inc.), covering the full lifecycle of a cybersecurity program — from team design to governance.
 ---
 
 ##  Scenario
