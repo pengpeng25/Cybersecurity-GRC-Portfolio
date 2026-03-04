@@ -33,7 +33,7 @@ Governance, Risk & Compliance sits at the intersection of **business operations 
 
 ## Project Summaries
 
-### 01a — ISO 27001 Risk Management [See here](01-GRC-Case-Studies/iso27001-risk-management/)
+### 01a — ISO 27001 Risk Management [(see here)](01-GRC-Case-Studies/iso27001-risk-management/)
 
 A complete ISMS risk assessment for a mid-sized retail organization, including asset inventory, threat modeling, risk scoring with a weighted methodology, Annex A control mapping, and a 12-month remediation roadmap. Includes a **framework selection analysis** comparing ISO 27001 vs. NIST CSF adoption for the organization's maturity level.
 
@@ -41,7 +41,7 @@ A complete ISMS risk assessment for a mid-sized retail organization, including a
 
 ---
 
-### 01b — Cloud Compliance Strategy 
+### 01b — Cloud Compliance Strategy [(see here)](01-GRC-Case-Studies/cloud-compliance-strategy/)
 
 A multi-framework compliance strategy for a multinational firm with Azure-hosted digital assets across US, EU, and APAC datacenters. Covers identity management (Azure AD/MFA), data classification, disaster recovery planning, insider risk mitigation, and regulatory alignment across jurisdictions. Includes a **compliance coverage matrix** mapping Azure tooling to ISO 27001, GDPR, COBIT, HIPAA, and SOC 2.
 
@@ -49,7 +49,7 @@ A multi-framework compliance strategy for a multinational firm with Azure-hosted
 
 ---
 
-### 01c — Cybersecurity Program Development 
+### 01c — Cybersecurity Program Development [(see here)](01-GRC-Case-Studies/cybersecurity-program/)
 
 End-to-end design of a cybersecurity program for a mid-sized organization, structured across 5 workstreams: team structure and CISO role definition, risk management program, policy framework, contingency planning (IRP/DRP/BCP), and a **governance model aligned with ITGI principles and NACD best practices**. Presented as a board-level deliverable.
 
