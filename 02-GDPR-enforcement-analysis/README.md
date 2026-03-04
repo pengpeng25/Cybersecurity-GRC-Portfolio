@@ -30,6 +30,26 @@ Since May 2018, EU Data Protection Authorities have imposed over **€5.88 billi
 
 ![Fines by Category](assets/fines-by-category.png)
 
+## 💡 Key Insight: Cloud ≠ Compliance
+
+A recurring pattern across enforcement cases is the assumption that hosting data on a major cloud platform (Azure, AWS) equates to GDPR compliance. **It does not.**
+
+Under the **shared responsibility model**, cloud service providers secure the *infrastructure* — but the **data controller remains fully liable** for how personal data is processed, stored, and transferred. The tooling exists; the accountability cannot be outsourced.
+
+| Layer | CSP Provides | Controller Must Own |
+|---|---|---|
+| Infrastructure security | ✅ Managed | — |
+| Encryption & data residency | ✅ Available | ✅ Must enable & configure |
+| Lawful basis & consent | — | ✅ Full responsibility |
+| DPIA & breach notification | Tools available | ✅ Must execute |
+| Data subject rights | APIs available | ✅ Must implement processes |
+
+> *Meta's €1.2B fine (2023) is the clearest example: the infrastructure was compliant — the transfer governance was not.*
+
+➡️ Full analysis with Azure vs. AWS comparison in [Enforcement Case Analysis](docs/02-enforcement-case-analysis.md#cloud-compliance-tooling)
+
+---
+
 ## Deliverables
 
 | # | Document | Description |
