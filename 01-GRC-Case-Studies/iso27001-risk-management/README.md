@@ -30,7 +30,7 @@ Business Supplies, Inc. (BSI) is a regional office supply retailer with 5 stores
 
 | Document | What It Covers |
 |----------|---------------|
-| [Organizational Context](./docs/01-organizational-context.md) | BSI profile, current security gaps, framework selection rationale |
+| [Organizational Context](01-GRC-Case-Studies/iso27001-risk-management/iso27001-risk-management_docs_01-organizational-context.md) | BSI profile, current security gaps, framework selection rationale |
 | [Risk Assessment Methodology](./docs/02-risk-assessment-methodology.md) | Weighted scoring model, criteria definitions, risk lifecycle |
 | [Asset Identification & Bundling](./docs/03-asset-identification.md) | 23-asset inventory → 8 strategic bundles with scoring |
 | [Threat Analysis](./docs/04-threat-analysis.md) | 12 threat scenarios → 5 weighted categories |
