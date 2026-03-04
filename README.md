@@ -19,14 +19,16 @@ Governance, Risk & Compliance sits at the intersection of **business operations 
 
 ---
 
+
 ## Portfolio Overview
 
 | # | Domain | Project | Key Frameworks | Status |
 |---|--------|---------|----------------|--------|
-| 01 | Governance, Risk & Compliance | [ISO 27001 Risk Management — BSI Case Study](01-GRC-Case-Studies/iso27001-risk-management/) | ISO 27001, ISO 27005, NIST CSF | ✅ Complete |
+| 01a | Governance, Risk & Compliance | [ISO 27001 Risk Management — BSI Case Study](01-GRC-Case-Studies/iso27001-risk-management/) | ISO 27001, ISO 27005, NIST CSF | ✅ Complete |
+| 01b | Governance, Risk & Compliance | [Cloud Compliance Strategy — NexaGlobal Ltd.](01-GRC-Case-Studies/cloud-compliance-strategy/) | Azure CAF, ISO 27001, GDPR, HIPAA, SOC 2 | ✅ Complete |
+| 01c | Governance, Risk & Compliance | [Cybersecurity Program Development — CGT Inc.](01-GRC-Case-Studies/cybersecurity-program/) | COBIT/ITGI, NIST, NACD Best Practices | ✅ Complete |
 | 02 | Data Protection | [GDPR Enforcement Analysis](02-GDPR-enforcement-analysis/) | EU GDPR, Schrems II, ePrivacy Directive | ✅ Complete |
 | 03 | Auditing & Monitoring | [IT Audit Methodology & SIEM Operations](03-auditing-and-monitoring/) | COBIT 2019, ISO 19011, NIST SP 800-92 | 🔧 In Progress |
-
 ---
 
 ## Project Summaries
