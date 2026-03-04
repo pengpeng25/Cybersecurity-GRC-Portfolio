@@ -33,7 +33,7 @@ Governance, Risk & Compliance sits at the intersection of **business operations 
 
 ## Project Summaries
 
-### 01a — ISO 27001 Risk Management (01-GRC-Case-Studies/iso27001-risk-management/)
+### 01a — ISO 27001 Risk Management [See here](01-GRC-Case-Studies/iso27001-risk-management/)
 
 A complete ISMS risk assessment for a mid-sized retail organization, including asset inventory, threat modeling, risk scoring with a weighted methodology, Annex A control mapping, and a 12-month remediation roadmap. Includes a **framework selection analysis** comparing ISO 27001 vs. NIST CSF adoption for the organization's maturity level.
 
