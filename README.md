@@ -33,7 +33,7 @@ Governance, Risk & Compliance sits at the intersection of **business operations 
 
 ## Project Summaries
 
-### 01 — ISO 27001 Risk Management (BSI Case Study)
+### 01a — ISO 27001 Risk Management 
 
 A complete ISMS risk assessment for a mid-sized retail organization, including asset inventory, threat modeling, risk scoring with a weighted methodology, Annex A control mapping, and a 12-month remediation roadmap. Includes a **framework selection analysis** comparing ISO 27001 vs. NIST CSF adoption for the organization's maturity level.
 
@@ -41,11 +41,27 @@ A complete ISMS risk assessment for a mid-sized retail organization, including a
 
 ---
 
+### 01b — Cloud Compliance Strategy 
+
+A multi-framework compliance strategy for a multinational firm with Azure-hosted digital assets across US, EU, and APAC datacenters. Covers identity management (Azure AD/MFA), data classification, disaster recovery planning, insider risk mitigation, and regulatory alignment across jurisdictions. Includes a **compliance coverage matrix** mapping Azure tooling to ISO 27001, GDPR, COBIT, HIPAA, and SOC 2.
+
+**Key deliverables:** Global data asset map · Azure CAF adoption plan · Compliance coverage matrix · Insider risk management strategy · Documentation & reporting framework
+
+---
+
+### 01c — Cybersecurity Program Development 
+
+End-to-end design of a cybersecurity program for a mid-sized organization, structured across 5 workstreams: team structure and CISO role definition, risk management program, policy framework, contingency planning (IRP/DRP/BCP), and a **governance model aligned with ITGI principles and NACD best practices**. Presented as a board-level deliverable.
+
+**Key deliverables:** Organizational structure & CISO mandate · Risk management program · Policy framework · Contingency plans (IRP, DRP, BCP) · Governance model with executive responsibilities
+
+---
+
 ### 02 — GDPR Enforcement Analysis
 
 An evidence-based review of major GDPR enforcement actions (2018–2025), analyzing €5.88B+ in fines across 5 violation categories. Includes a structured GDPR legal reference, cloud compliance tooling comparison (Azure vs. AWS), and a **shared responsibility model analysis** — demonstrating that cloud infrastructure does not equal compliance, and that the data controller remains fully liable regardless of platform.
 
-**Key deliverables:** Legal framework reference · 10+ case analyses · Enforcement trend visualizations · Cloud shared responsibility matrix · Enterprise compliance checklist
+**Key deliverables:** Legal framework reference · 10+ case conduct analyses · Enforcement trend visualizations · Cloud shared responsibility matrix · Enterprise compliance checklist
 
 ---
 
@@ -54,6 +70,7 @@ An evidence-based review of major GDPR enforcement actions (2018–2025), analyz
 Covers the full audit lifecycle from planning through reporting, with practical modules on OS-level log analysis (Linux auditd, Windows Event Viewer) and SIEM concepts. Includes framework deep-dives into COBIT 2019, ISO 19011, and monitoring strategy design.
 
 **Key deliverables:** Audit lifecycle documentation · COBIT 2019 analysis · OS log analysis practicals · SIEM concepts · *(Planned: Splunk & Wazuh implementation)*
+
 
 ---
 
