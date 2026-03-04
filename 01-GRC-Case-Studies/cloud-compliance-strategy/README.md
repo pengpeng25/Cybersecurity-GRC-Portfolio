@@ -31,10 +31,6 @@
 - **Risk Management**: Addressing insider threats, data lifecycle, and continuous monitoring
 - **Consultant Deliverable Quality**: Structured recommendations with actionable implementation guidance
 
-## Key Visuals
-
-### Global Data Asset Distribution
-![Data Asset Map](assets/data-asset-map.png)
 
 ### Azure Compliance Coverage Matrix
 ![Compliance Coverage Matrix](assets/compliance-coverage-matrix.png)
