@@ -57,7 +57,7 @@ End-to-end design of a cybersecurity program for a mid-sized organization, struc
 
 ---
 
-### 02 — GDPR Enforcement Analysis
+### 02 — GDPR Enforcement Analysis [(see here)](02-GDPR-enforcement-analysis/)
 
 An evidence-based review of major GDPR enforcement actions (2018–2025), analyzing €5.88B+ in fines across 5 violation categories. Includes a structured GDPR legal reference, cloud compliance tooling comparison (Azure vs. AWS), and a **shared responsibility model analysis** — demonstrating that cloud infrastructure does not equal compliance, and that the data controller remains fully liable regardless of platform.
 
