@@ -6,7 +6,7 @@
 
 ## About
 
-I'm a professional transitioning into cybersecurity GRC and IT audit, combining a background in **economics and business management** with focused study in information security frameworks, and data protection regulation.
+I'm a professional transitioning into cybersecurity GRC and IT audit, combining a background in **competition economics and market regulation** with focused study in cybersecurity fundamentals, information security frameworks, and data protection regulation.
 
 ### Why Economics → GRC?
 
