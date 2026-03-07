@@ -38,7 +38,7 @@ For organizations like BSI (regional retail, no formal security staff) or CGT (g
 | Segregation of Duties (SoD) | Conflicting roles separated | Map role matrix → identify SoD conflicts (e.g., AP entry + payment approval) |
 
 **Relevance to BSI case study:**
-[See case study: ISO27001 Risk-Management Project](01-GRC-Case-Studies/iso27001-risk-management/)
+[See case study: ISO27001 Risk-Management Project](01-GRC-Case-Studies/iso27001-risk-management/README.md)
 
 BSI's Active Directory (Server A) runs on Windows 2016 — an end-of-life platform. Access controls built on unsupported infrastructure are inherently unreliable. The risk assessment identified AD SQL DB as a critical asset (weighted score: 3.65) precisely because it controls authentication for the entire organization. An ITGC assessment would flag:
 - No documented access provisioning/deprovisioning process
@@ -46,7 +46,7 @@ BSI's Active Directory (Server A) runs on Windows 2016 — an end-of-life platfo
 - No evidence of periodic access reviews
 
 **Relevance to CGT case study:**
-[See case study: Cybersecurity Program Development](01-GRC-Case-Studies/cybersecurity-program/)
+[See case study: Cybersecurity Program Development](01-GRC-Case-Studies/cybersecurity-program-development/README.md)
 
 CGT enforces strong physical access controls (keycards, CCTV, escorted visitors) and restricts network access (no BYOD, no WiFi, VPN-only for IT). However, there is no formal access management policy for logical access to application servers (Racks 1-2). The proposed Cybersecurity Policy & Risk Manager role would own the design of these controls.
 
