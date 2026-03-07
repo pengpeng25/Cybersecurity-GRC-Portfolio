@@ -28,7 +28,7 @@ Governance, Risk & Compliance sits at the intersection of **business operations 
 | 01b | Governance, Risk & Compliance | [Cloud Compliance Strategy — NexaGlobal Ltd.](01-GRC-Case-Studies/cloud-compliance-strategy/) | Azure CAF, ISO 27001, GDPR, HIPAA, SOC 2 | ✅ Complete |
 | 01c | Governance, Risk & Compliance | [Cybersecurity Program Development — CGT Inc.](01-GRC-Case-Studies/cybersecurity-program/) | COBIT/ITGI, NIST, NACD Best Practices | ✅ Complete |
 | 02 | Data Protection | [GDPR Enforcement Analysis](02-GDPR-enforcement-analysis/) | EU GDPR, Schrems II, ePrivacy Directive | ✅ Complete |
-| 03 | Auditing & Monitoring | [IT Audit Methodology & SIEM Operations](03-auditing-and-monitoring/2-ITGC.md) | COBIT 2019, ISO 19011, NIST SP 800-92 | 🔧 In Progress |
+| 03 | Auditing & Monitoring | [IT Audit Methodology & SIEM Operations](03-Auditing-and-Monitoring/2-ITGC.md) | COBIT 2019, ISO 19011, NIST SP 800-92 | 🔧 In Progress |
 ---
 
 ## Project Summaries
