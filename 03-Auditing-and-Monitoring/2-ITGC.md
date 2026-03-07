@@ -209,6 +209,8 @@ If ITGC testing reveals that anyone with network access can modify TAS-GL parame
 
 ## 7. Practical Application: BSI ITGC Assessment Summary
 
+[See case study: ISO27001 Risk-Management Project](../01-GRC-Case-Studies/iso27001-risk-management/README.md)
+
 If engaged to perform an ITGC assessment at BSI, the following high-level findings would be expected:
 
 | Domain | Maturity | Key Finding | Recommended Action |
@@ -221,6 +223,8 @@ If engaged to perform an ITGC assessment at BSI, the following high-level findin
 ---
 
 ## 8. Practical Application: CGT ITGC Assessment Summary
+
+[See case study: Cybersecurity Program Development](../01-GRC-Case-Studies/cybersecurity-program-development/README.md)
 
 | Domain | Maturity | Key Finding | Recommended Action |
 |---|---|---|---|
