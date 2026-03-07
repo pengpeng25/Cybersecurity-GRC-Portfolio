@@ -46,7 +46,7 @@ BSI's Active Directory (Server A) runs on Windows 2016 — an end-of-life platfo
 - No evidence of periodic access reviews
 
 **Relevance to CGT case study:**
-[See case study: Cybersecurity Program Development](../../01-GRC-Case-Studies/cybersecurity-program-development/README.md)
+[See case study: Cybersecurity Program Development](../01-GRC-Case-Studies/cybersecurity-program-development/README.md)
 
 CGT enforces strong physical access controls (keycards, CCTV, escorted visitors) and restricts network access (no BYOD, no WiFi, VPN-only for IT). However, there is no formal access management policy for logical access to application servers (Racks 1-2). The proposed Cybersecurity Policy & Risk Manager role would own the design of these controls.
 
