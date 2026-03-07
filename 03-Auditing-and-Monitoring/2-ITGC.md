@@ -125,6 +125,9 @@ CGT's core business *is* software development, making SDLC controls both an IT g
 
 The proposed Application Security Specialist role (future hire) would embed security into the SDLC, while the Security Engineer would ensure deployment controls are enforced.
 
+![ITGC-control-matrix](itgc-control-matrix.png)
+
+
 ---
 
 ## 3. ITGC Testing in Practice
