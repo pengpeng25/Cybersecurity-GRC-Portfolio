@@ -45,7 +45,7 @@ BSI's Active Directory (Server A) runs on Windows 2016 — an end-of-life platfo
 - Privileged access to Server A not formally restricted
 - No evidence of periodic access reviews
 
-!(itgc-matrix-bsi.png)
+![ITGC-matrix-BSI](itgc-matrix-bsi.png)
 
 **Relevance to CGT case study:**
 [See case study: Cybersecurity Program Development](../01-GRC-Case-Studies/cybersecurity-program-development/README.md)
