@@ -1,4 +1,4 @@
-# IT General Controls (ITGC) — Framework & Assessment Guide
+# IT General Controls (ITGC) — Framework & Assessment Steps
 
 > A structured reference for understanding, evaluating, and testing IT General Controls in audit and advisory engagements. Designed to support IT audit activities aligned with COBIT, ISO 27001, and SOX compliance requirements.
 
