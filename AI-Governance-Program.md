@@ -82,7 +82,7 @@ As AI adoption expanded, executive leadership initiated an enterprise-wide AI Go
 ```
 AI-Governance-Program/
 
-├── 01-AI-Inventory[01 AI Inventory](01.md)
+├── 01-AI-Inventory[01 AI Inventory](AI-Governance-Program/01.md/)
 ├── 02-AI-Risk-Assessments(02.md)
 ├── 03-AI-Risk-Register(03.md)
 ├── 04-NIST-AI-RMF-Mapping
