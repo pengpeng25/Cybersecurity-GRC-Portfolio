@@ -1,269 +1,165 @@
-# AI Governance Program
+# Enterprise AI Governance Program Portfolio
 
-> **Disclaimer**
->
-> This project is a fictional case study created for educational and portfolio purposes. The organization, business scenarios, AI systems, and governance documentation presented in this repository are entirely fictional and do not represent any real company.
+## Overview
 
----
+This repository presents a comprehensive **AI Governance Program** developed for **SimulFlow S.r.l.**, a fictional SaaS company headquartered in Milan, Italy.
 
-## Project Overview
+The project simulates the responsibilities of a Governance, Risk, and Compliance (GRC) analyst responsible for establishing an enterprise AI governance framework from the ground up. It demonstrates how AI systems can be inventoried, assessed, governed, monitored, and continuously improved using internationally recognized security and compliance frameworks.
 
-Artificial Intelligence is rapidly becoming a core capability in modern SaaS platforms, introducing new governance, security, privacy, and compliance challenges beyond those addressed by traditional information security programs.
-
-This project demonstrates how an enterprise AI governance program can be designed from the ground up for a fictional B2B SaaS company (**SimulFlow S.r.l.**), following internationally recognized governance and risk management frameworks.
-
-Rather than focusing on offensive AI security techniques, this repository approaches AI from a Governance, Risk, and Compliance (GRC) perspective, illustrating how AI systems can be inventoried, assessed, governed, monitored, and continuously improved throughout their lifecycle.
+Rather than focusing on AI development, this portfolio emphasizes **AI governance**, **risk management**, **third-party assurance**, and **audit readiness**.
 
 ---
 
-## Project Objectives
+## Objectives
 
-The objectives of this project are to:
+The program was designed to demonstrate practical implementation of:
 
-* Build an enterprise AI governance framework for a SaaS organization
-* Establish an AI inventory covering internal and third-party AI systems
-* Perform AI-specific risk assessments using structured methodologies
-* Develop an operational AI Risk Register with treatment tracking
-* Map governance activities to recognized international frameworks
-* Evaluate AI vendors and third-party AI services
-* Produce governance documentation suitable for executive review
-* Demonstrate AI governance maturity aligned with industry best practices
+* Enterprise AI Governance
+* AI Risk Management
+* AI Vendor Risk Management
+* AI Security Governance
+* Executive Risk Reporting
+* Compliance Readiness
+* Audit Traceability
 
 ---
 
 ## Framework Alignment
 
-This project references guidance from multiple governance and security frameworks, including:
+This portfolio integrates guidance from multiple governance and security frameworks.
 
-| Framework                                  | Purpose                                          |
-| ------------------------------------------ | ------------------------------------------------ |
-| ISO/IEC 42001                              | Artificial Intelligence Management System (AIMS) |
-| NIST AI Risk Management Framework (AI RMF) | AI risk governance and lifecycle management      |
-| ISO/IEC 27001                              | Information Security Management System           |
-| ISO/IEC 27005                              | Information Security Risk Management             |
-| SOC 2                                      | Security and Trust Services Criteria             |
-| OWASP Top 10 for LLM Applications (2025)   | AI application security risks                    |
-
----
-
-# Fictional Organization
-
-**Company:** SimulFlow S.r.l.
-
-**Headquarters:** Milan, Italy
-
-**Industry:** B2B SaaS
-
-**Employees:** ~650
-
-**Primary Cloud Platform:** Microsoft Azure
-
-**Secondary Cloud:** AWS (Disaster Recovery)
-
-**Business Overview**
-
-SimulFlow develops AI-powered workflow automation and enterprise knowledge management solutions for organizations operating across the European Union.
-
-The company has adopted multiple AI technologies, including:
-
-* Customer-facing Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI workflow automation
-* Enterprise coding assistants
-* Third-party AI APIs
-* AI productivity tools
-
-As AI adoption expanded, executive leadership initiated an enterprise-wide AI Governance Program to improve risk visibility, regulatory readiness, and operational oversight.
+| Framework                     | Purpose                                          |
+| ----------------------------- | ------------------------------------------------ |
+| ISO/IEC 42001                 | Artificial Intelligence Management System (AIMS) |
+| NIST AI RMF                   | AI risk governance and lifecycle management      |
+| ISO/IEC 27001                 | Information Security Management System           |
+| SOC 2 Trust Services Criteria | Security and assurance mapping                   |
+| OWASP LLM Top 10 (2025)       | AI application security risk identification      |
 
 ---
 
-# Repository Structure
+## Repository Structure
 
+| #  | Module                                              | Description                                                                                |
+| -- | --------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 01 | AI Inventory                                        | Enterprise inventory of AI assets, ownership, business purpose, and risk classification    |
+| 02 | AI Risk Assessments                                 | Structured assessment of AI-specific threats, attack scenarios, and business impacts       |
+| 03 | AI Risk Register                                    | Enterprise AI risk register with ownership, treatment planning, and residual risk tracking |
+| 04 | NIST AI RMF Mapping                                 | Crosswalk between identified risks and the NIST AI Risk Management Framework               |
+| 05 | ISO/IEC 42001 Gap Assessment                        | Readiness assessment against ISO/IEC 42001 governance requirements                         |
+| 06 | Vendor Risk Assessment                              | Third-party AI security due diligence and vendor governance process                        |
+| 07 | AI Governance Policy                                | Enterprise AI governance policy defining mandatory controls and governance principles      |
+| 08 | Executive Dashboard                                 | Executive reporting using governance KPIs, KRIs, and risk metrics                          |
+| 09 | Governance Improvement Roadmap                      | Risk-driven roadmap for continuous governance maturity improvement                         |
+| 10 | AI Governance Assurance & Control Mapping Framework | Integrated control mapping, evidence traceability, and audit readiness across frameworks   |
+
+---
+
+## Governance Workflow
+
+The repository follows a governance lifecycle similar to that used in enterprise GRC programs.
+
+```text
+AI Inventory
+      │
+      ▼
+Risk Assessment
+      │
+      ▼
+Risk Register
+      │
+      ▼
+Framework Mapping
+      │
+      ▼
+Gap Assessment
+      │
+      ▼
+Vendor Governance
+      │
+      ▼
+Policy Development
+      │
+      ▼
+Executive Reporting
+      │
+      ▼
+Continuous Improvement
+      │
+      ▼
+Audit Assurance
 ```
-AI-Governance-Program/
 
-├── 01-AI-Inventory[01 AI Inventory](AI-Governance-Program/01.md/)
-├── 02-AI-Risk-Assessments(02.md)
-├── 03-AI-Risk-Register(03.md)
-├── 04-NIST-AI-RMF-Mapping
-├── 05-ISO42001-Gap-Assessment
-├── 06-Vendor-Risk-Assessment
-├── 07-AI-Governance-Policy
-├── 08-Executive-Dashboard
-└── 09-Governance-Roadmap
+---
+
+## Portfolio Highlights
+
+This project demonstrates the ability to:
+
+* Design an enterprise AI governance program
+* Build and maintain an AI risk register
+* Perform structured AI risk assessments
+* Develop AI governance policies
+* Conduct third-party AI vendor assessments
+* Map controls across multiple governance frameworks
+* Produce executive dashboards and governance metrics
+* Assess ISO/IEC 42001 readiness
+* Create audit-ready governance documentation with end-to-end traceability
+
+---
+
+## Control Traceability
+
+The governance model follows a complete traceability chain:
+
+```text
+AI Asset
+    ↓
+Risk Assessment
+    ↓
+Risk Register
+    ↓
+Control
+    ↓
+Framework Requirement
+    ↓
+Evidence
+    ↓
+Executive Reporting
 ```
 
----
-
-# Deliverables
-
-## 01 — AI Inventory
-
-Develop an enterprise inventory of AI systems, including:
-
-* AI asset identification
-* System classification
-* Business ownership
-* Data classification
-* Business criticality
-* Risk categorization
-* Approval status
+This approach reflects how mature GRC programs demonstrate both control implementation and control effectiveness during internal or external audits.
 
 ---
 
-## 02 — AI Risk Assessments
+## Disclaimer
 
-Perform structured assessments of enterprise AI systems by identifying:
+SimulFlow S.r.l. is a fictional organization created solely for educational and portfolio purposes.
 
-* Business scenarios
-* Threat scenarios
-* Threat actors
-* Attack surfaces
-* Business impacts
-* Existing controls
-* Residual risks
+All AI systems, vendors, business processes, governance documents, risk assessments, dashboards, and audit artifacts are simulated to demonstrate enterprise GRC methodologies and do not represent any real organization.
 
 ---
 
-## 03 — AI Risk Register
+## About This Portfolio
 
-Develop a centralized AI Risk Register including:
+This repository was developed to strengthen practical skills in:
 
-* Risk identification
-* OWASP LLM references
-* Risk ownership
-* Treatment options
-* Mitigation plans
-* Due dates
-* Residual risk
-* Continuous tracking
-
----
-
-## 04 — NIST AI RMF Mapping
-
-Demonstrate how organizational governance activities align with the four NIST AI RMF functions:
-
-* Govern
-* Map
-* Measure
-* Manage
-
----
-
-## 05 — ISO/IEC 42001 Gap Assessment
-
-Evaluate organizational readiness against ISO/IEC 42001 by identifying:
-
-* Implemented controls
-* Partial implementation
-* Governance gaps
-* Recommended improvements
-* Implementation priorities
-
----
-
-## 06 — Vendor Risk Assessment
-
-Assess third-party AI providers through a structured due diligence process covering:
-
-* Security posture
-* Privacy practices
-* AI governance
-* Data handling
-* Supply chain risks
-* Overall vendor risk ratings
-
----
-
-## 07 — AI Governance Policy
-
-Develop an enterprise policy defining:
-
-* Governance principles
-* Roles and responsibilities
-* Acceptable AI use
-* Third-party AI requirements
-* Data governance
-* Monitoring
-* Incident response
-
----
-
-## 08 — Executive Dashboard
-
-Produce executive-level governance metrics, including:
-
-* AI inventory statistics
-* Open AI risks
-* High-risk findings
-* Vendor review status
-* AI governance maturity
-* ISO 42001 readiness
-* NIST AI RMF coverage
-
----
-
-## 09 — Governance Roadmap
-
-Develop a continuous improvement roadmap to:
-
-* Prioritize governance initiatives
-* Track remediation progress
-* Improve organizational AI maturity
-* Support future ISO/IEC 42001 certification readiness
-
----
-
-# Expected Outcomes
-
-Upon completion, this project demonstrates how an organization can establish an operational AI Governance Program capable of:
-
-* Maintaining visibility over enterprise AI systems
-* Managing AI-specific security and compliance risks
-* Supporting executive decision-making through governance metrics
-* Improving regulatory readiness
-* Aligning AI governance with internationally recognized standards
-
----
-
-# Intended Audience
-
-This repository is intended for:
-
-* GRC professionals
-* Security governance teams
-* Compliance analysts
-* AI governance practitioners
-* Information Security Managers
-* Risk Managers
-* Hiring managers evaluating AI governance competencies
-
----
-
-# Skills Demonstrated
-
+* Governance, Risk, and Compliance (GRC)
+* Enterprise Risk Management
 * AI Governance
-* AI Risk Management
-* Enterprise Risk Register Development
-* Vendor Risk Management
-* ISO/IEC 42001 Readiness Assessment
-* NIST AI RMF Implementation
-* Risk Treatment Planning
-* Security Policy Development
-* Executive Reporting
-* Governance Documentation
+* AI Security
+* Third-Party Risk Management
+* Compliance Framework Mapping
+* Audit Readiness
+
+The project combines concepts learned through formal cybersecurity and GRC training with independent research and hands-on study of AI security topics, including AI threat modeling, OWASP LLM Top 10 (2025), AI supply chain security, Retrieval-Augmented Generation (RAG) security, and the NIST AI Risk Management Framework.
 
 ---
 
-# References
+## Author
 
-This project is informed by publicly available guidance, standards, and industry best practices, including:
+**Pengpeng**
 
-* ISO/IEC 42001
-* NIST AI Risk Management Framework (AI RMF)
-* ISO/IEC 27001
-* ISO/IEC 27005
-* OWASP Top 10 for LLM Applications (2025)
-* AI security path Tryhackme.com and other learning resources
+Cybersecurity • Governance, Risk & Compliance (GRC) • AI Governance
 
+Actively building practical governance portfolios focused on enterprise AI risk management, compliance, and security governance.
