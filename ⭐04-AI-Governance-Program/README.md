@@ -40,18 +40,18 @@ This portfolio integrates guidance from multiple governance and security framewo
 
 ## Repository Structure
 
-| #  | Module                                              | Description                                                                                |
-| -- | --------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 01 | AI Inventory                                        | Enterprise inventory of AI assets, ownership, business purpose, and risk classification    |
-| 02 | AI Risk Assessments                                 | Structured assessment of AI-specific threats, attack scenarios, and business impacts       |
-| 03 | AI Risk Register                                    | Enterprise AI risk register with ownership, treatment planning, and residual risk tracking |
-| 04 | NIST AI RMF Mapping                                 | Crosswalk between identified risks and the NIST AI Risk Management Framework               |
-| 05 | ISO/IEC 42001 Gap Assessment                        | Readiness assessment against ISO/IEC 42001 governance requirements                         |
-| 06 | Vendor Risk Assessment                              | Third-party AI security due diligence and vendor governance process                        |
-| 07 | AI Governance Policy                                | Enterprise AI governance policy defining mandatory controls and governance principles      |
-| 08 | Executive Dashboard                                 | Executive reporting using governance KPIs, KRIs, and risk metrics                          |
-| 09 | Governance Improvement Roadmap                      | Risk-driven roadmap for continuous governance maturity improvement                         |
-| 10 | AI Governance Assurance & Control Mapping Framework | Integrated control mapping, evidence traceability, and audit readiness across frameworks   |
+| # | Module | Description |
+|---|--------|-------------|
+| 01 | [AI Inventory](01-AI-Inventory.md) | Enterprise inventory of AI assets, ownership, business purpose, and risk classification |
+| 02 | [AI Risk Assessments](02-AI-Risk-Assessments.md) | Structured assessment of AI-specific threats, attack scenarios, and business impacts |
+| 03 | [AI Risk Register](03-AI-Risk-Register.md) | Enterprise AI risk register with ownership, treatment planning, and residual risk tracking |
+| 04 | [NIST AI RMF Mapping](04-NIST-AI-RMF-Mapping.md) | Crosswalk between identified risks and the NIST AI Risk Management Framework |
+| 05 | [ISO/IEC 42001 Gap Assessment](05-ISO42001-Gap-Assessment.md) | Readiness assessment against ISO/IEC 42001 governance requirements |
+| 06 | [Vendor Risk Assessment](06-Vendor-Risk-Assessment.md) | Third-party AI security due diligence and vendor governance process |
+| 07 | [AI Governance Policy](07-AI-Governance-Policy.md) | Enterprise AI governance policy defining mandatory controls and governance principles |
+| 08 | [Executive Dashboard](08-Dashboard.md) | Executive reporting using governance KPIs, KRIs, and risk metrics |
+| 09 | [Governance Improvement Roadmap](09-Improvement-Roadmap.md) | Risk-driven roadmap for continuous governance maturity improvement |
+| 10 | [AI Governance Assurance & Control Mapping Framework](10-Audit-Assurance.md) | Integrated control mapping, evidence traceability, and audit readiness across frameworks |
 
 ---
 
