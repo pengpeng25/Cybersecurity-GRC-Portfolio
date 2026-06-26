@@ -1,4 +1,4 @@
-# Enterprise AI Governance Program Portfolio
+# AI Governance Program Portfolio
 
 ## Overview
 
@@ -158,7 +158,7 @@ The project combines concepts learned through formal cybersecurity and GRC train
 
 ## Author
 
-**Pengpeng**
+**Peng Peng**
 
 Cybersecurity • Governance, Risk & Compliance (GRC) • AI Governance
 
