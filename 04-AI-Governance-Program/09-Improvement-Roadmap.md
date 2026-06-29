@@ -1,7 +1,7 @@
 # 09 — AI Governance Improvement Roadmap
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [03-AI-Risk-Register](../03-AI-Risk-Register/README.md) · [05-ISO42001-Gap-Assessment](../05-ISO42001-Gap-Assessment/README.md) · [08-Executive-Dashboard](../08-Executive-Dashboard/README.md)
+> Source: [03-AI-Risk-Register](03-AI-Risk-Register.md) · [05-ISO42001-Gap-Assessment](05-ISO42001-Gap-Assessment.md) · [08-Executive-Dashboard](08-Executive-Dashboard.md)
 > Frameworks: ISO/IEC 42001 · NIST AI RMF · OWASP LLM Top 10 (2025)
 
 ---
