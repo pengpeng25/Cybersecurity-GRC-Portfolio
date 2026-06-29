@@ -1,7 +1,7 @@
 # 07 — AI Governance Policy
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [01-AI-Inventory](../01-AI-Inventory/README.md) · [03-AI-Risk-Register](../03-AI-Risk-Register/README.md) · [05-ISO42001-Gap-Assessment](../05-ISO42001-Gap-Assessment/README.md)
+> Source: [01-AI-Inventory](01-AI-Inventory.md) · [03-AI-Risk-Register](03-AI-Risk-Register.md) · [05-ISO42001-Gap-Assessment](05-ISO42001-Gap-Assessment.md)
 > Frameworks: ISO/IEC 42001 · ISO/IEC 27001 · NIST AI RMF · OWASP LLM Top 10 (2025)
 
 ---
@@ -113,7 +113,7 @@ Violations of these prohibitions must be reported to the GRC team and may result
 
 ### 6.3 Third-Party AI Controls
 
-- All AI vendors must undergo Vendor Risk Assessment before onboarding (see [06-Vendor-Risk-Assessment](../06-Vendor-Risk-Assessment/README.md))
+- All AI vendors must undergo Vendor Risk Assessment before onboarding (see [06-Vendor-Risk-Assessment](06-Vendor-Risk-Assessment.md))
 - Data Processing Agreements (DPA) must be signed before any personal data is transmitted to a third-party AI provider
 - Model provenance must be documented where available
 - Vendors must be reassessed annually or upon trigger events defined in the Vendor Risk Management Lifecycle
@@ -156,7 +156,7 @@ No AI system may be deployed without:
 
 Any suspected AI security incident — including prompt injection attempts, unauthorized data disclosure, model misuse, or jailbreaking — must be reported to the GRC and Security teams immediately via the enterprise security incident reporting process.
 
-Until a dedicated AI Incident Response Playbook is established (see [05-ISO42001-Gap-Assessment — GAP-001](../05-ISO42001-Gap-Assessment/README.md)), AI incidents are managed under the existing Security Incident Response Plan with GRC oversight.
+Until a dedicated AI Incident Response Playbook is established (see [05-ISO42001-Gap-Assessment — GAP-001](05-ISO42001-Gap-Assessment.md)), AI incidents are managed under the existing Security Incident Response Plan with GRC oversight.
 
 Failure to report a known or suspected AI security incident is a policy violation.
 
@@ -184,4 +184,4 @@ This policy is reviewed:
 
 ---
 
-*Document Owner: PP· Version 1.0 · Last Updated: 2026-06-26 
+*Last Updated: 2026-06-26* 
