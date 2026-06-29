@@ -1,7 +1,7 @@
 # 06 — Vendor Risk Assessment
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [01-AI-Inventory](../01-AI-Inventory/README.md) · [03-AI-Risk-Register](../03-AI-Risk-Register/README.md)
+> Source: [01-AI-Inventory](01-AI-Inventory.md) · [03-AI-Risk-Register](03-AI-Risk-Register.md)
 > Frameworks: ISO/IEC 42001 · ISO/IEC 27001 · NIST AI RMF · SOC 2
 
 ---
@@ -312,4 +312,4 @@ Vendors are reassessed annually or when any of the following trigger events occu
 
 ---
 
-*Last updated: 2026-06-26 · Owner: Vendor Risk Manager · Next review: 2026-09-26*
+*Last updated: 2026-06-26*
