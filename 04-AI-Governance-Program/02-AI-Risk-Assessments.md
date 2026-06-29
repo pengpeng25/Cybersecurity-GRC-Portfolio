@@ -1,7 +1,7 @@
 # 02 — AI Risk Assessments
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Assessment scope: All AI systems identified in [01-AI-Inventory](../01-AI-Inventory/README.md)
+> Assessment scope: All AI systems identified in [01-AI-Inventory](../01-AI-Inventory.md)
 > Methodology: Structured enterprise risk assessment · NIST AI RMF · OWASP LLM Top 10 (2025)
 
 ---
@@ -290,7 +290,7 @@ Each system was assessed through an 8-step process:
 
 ## Next Steps
 
-All identified risks are transferred to the **[03-AI-Risk-Register](../03-AI-Risk-Register/README.md)**, where each entry is assigned:
+All identified risks are transferred to the **[03-AI-Risk-Register](../03-AI-Risk-Register.md)**, where each entry is assigned:
 
 - Risk owner
 - Treatment strategy (Accept / Mitigate / Transfer / Avoid)
@@ -301,4 +301,4 @@ All identified risks are transferred to the **[03-AI-Risk-Register](../03-AI-Ris
 
 ---
 
-*Last updated: 2026-06-26 · Owner: GRC Team · Next review: 2026-09-26*
+*Last updated: 2026-06-26*
