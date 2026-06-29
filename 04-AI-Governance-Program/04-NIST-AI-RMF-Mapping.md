@@ -1,7 +1,7 @@
 # 04 — NIST AI RMF Mapping
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [01-AI-Inventory](../01-AI-Inventory/README.md) · [02-AI-Risk-Assessments](../02-AI-Risk-Assessments/README.md) · [03-AI-Risk-Register](../03-AI-Risk-Register/README.md)
+> Source: [01-AI-Inventory](01-AI-InventoryE.md) · [02-AI-Risk-Assessments](02-AI-Risk-Assessments.md) · [03-AI-Risk-Register](03-AI-Risk-Register.md)
 > Framework: NIST AI Risk Management Framework (AI RMF 1.0)
 
 ---
