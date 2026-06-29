@@ -37,17 +37,17 @@ SimulFlow adopts a **Unified Control Mapping Approach (UCMA)** structured across
 
 | Layer | Description | Primary Output |
 |-------|-------------|----------------|
-| Risk Layer | Identifies and scores AI risks | [03-AI-Risk-Register](../03-AI-Risk-Register/README.md) |
-| Control Layer | Defines mitigation controls and ownership | [07-AI-Governance-Policy](../07-AI-Governance-Policy/README.md) |
+| Risk Layer | Identifies and scores AI risks | [03-AI-Risk-Register](03-AI-Risk-Register.md) |
+| Control Layer | Defines mitigation controls and ownership | [07-AI-Governance-Policy](07-AI-Governance-Policy.md) |
 | Assurance Layer | Maps controls to frameworks and evidence | This document |
-| Reporting Layer | Provides executive visibility and KRIs | [08-Executive-Dashboard](../08-Executive-Dashboard/README.md) |
+| Reporting Layer | Provides executive visibility and KRIs | [08-Executive-Dashboard](08-Executive-Dashboard.md) |
 
 ---
 
 ## Cross-Framework Control Mapping
 
 > ISO/IEC 42001 clause references are provided with titles for audit clarity.
-> OWASP coverage reflects the 8 categories currently registered in [03-AI-Risk-Register](../03-AI-Risk-Register/README.md). LLM05 and LLM09 are identified as future risks and are not yet mapped to controls.
+> OWASP coverage reflects the 8 categories currently registered in [03-AI-Risk-Register](03-AI-Risk-Register.md). LLM05 and LLM09 are identified as future risks and are not yet mapped to controls.
 
 | Control ID | Control Description | ISO/IEC 42001 | SOC 2 | NIST AI RMF | OWASP LLM |
 |------------|-------------------|---------------|-------|-------------|-----------|
