@@ -124,10 +124,10 @@ This inventory serves as the **single source of truth** across the AI Governance
 | Document | How it references this inventory |
 |----------|----------------------------------|
 | [02-AI-Risk-Assessments](02-AI-Risk-Assessments.md) | Selects systems (AI-001, AI-002, AI-003) for detailed threat modelling |
-| `03-AI-Risk-Register` | Each risk entry is linked to one or more AI IDs |
-| `05-ISO42001-Gap-Assessment` | Verifies governance metadata (owner, classification, approval) per system |
-| `06-Vendor-Risk-Assessment` | Draws vendor list directly from this inventory (Azure OpenAI, GitHub, DeepL) |
-| `08-Executive-Dashboard` | Aggregates risk ratings and approval status for leadership reporting |
+| [03-AI-Risk-Register](03-AI-Risk-Register.md) | Each risk entry is linked to one or more AI IDs |
+| [05-ISO42001-Gap-Assessment](05-ISO42001-Gap-Assessment.md) | Verifies governance metadata (owner, classification, approval) per system |
+| [06-Vendor-Risk-Assessment](06-Vendor-Risk-Assessment.md) | Draws vendor list directly from this inventory (Azure OpenAI, GitHub, DeepL) |
+| [08-Executive-Dashboard](08-Dashboard.md) | Aggregates risk ratings and approval status for leadership reporting |
 
 ---
 
