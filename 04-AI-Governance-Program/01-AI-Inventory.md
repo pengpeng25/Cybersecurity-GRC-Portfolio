@@ -131,4 +131,4 @@ This inventory serves as the **single source of truth** across the AI Governance
 
 ---
 
-*Last updated: 2026-06-26 · Owner: GRC Team · Next review: 2026-09-26*
+*Last updated: 2026-06-26*
