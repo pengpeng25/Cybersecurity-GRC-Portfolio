@@ -166,15 +166,15 @@ The organization has established a functioning AI governance program with docume
 
 | Document | NIST AI RMF Function |
 |----------|---------------------|
-| `01-AI-Inventory` | Map |
-| `02-AI-Risk-Assessments` | Map · Measure |
-| `03-AI-Risk-Register` | Measure · Manage |
-| `05-ISO42001-Gap-Assessment` | Govern · Manage |
-| `06-Vendor-Risk-Assessment` | Map · Manage |
-| `07-AI-Governance-Policy` | Govern |
-| `08-Executive-Dashboard` | Govern · Manage |
-| `09-Control-Improvement-Roadmap` | Manage |
+| [01-AI-Inventory](01-AI-Inventory.md) | Map |
+| [02-AI-Risk-Assessments](02-AI-Risk-Assessments.md) | Map · Measure |
+| [03-AI-Risk-Register](03-AI-Risk-Register.md) | Measure · Manage |
+| [05-ISO42001-Gap-Assessment](05-ISO42001-Gap-Assessment.md) | Govern · Manage |
+| [06-Vendor-Risk-Assessment](06-Vendor-Risk-Assessment.md) | Map · Manage |
+| [07-AI-Governance-Policy](07-AI-Governance-Policy.md) | Govern |
+| [08-Executive-Dashboard](08-Dashboard.md) | Govern · Manage |
+| [09-Control-Improvement-Roadmap](09-Improvement-Roadmap.md) | Manage |
 
 ---
 
-*Last updated: 2026-06-26 · Owner: GRC Team · Next review: 2026-09-26*
+*Last updated: 2026-06-26 *
