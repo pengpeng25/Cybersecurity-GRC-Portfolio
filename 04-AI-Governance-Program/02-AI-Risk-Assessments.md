@@ -290,7 +290,7 @@ Each system was assessed through an 8-step process:
 
 ## Next Steps
 
-All identified risks are transferred to the **[03-AI-Risk-Register](/03-AI-Risk-Register.md)**, where each entry is assigned:
+All identified risks are transferred to the **[03-AI-Risk-Register](03-AI-Risk-Register.md)**, where each entry is assigned:
 
 - Risk owner
 - Treatment strategy (Accept / Mitigate / Transfer / Avoid)
