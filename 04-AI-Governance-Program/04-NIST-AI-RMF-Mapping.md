@@ -23,7 +23,7 @@ This document demonstrates how SimulFlow's Enterprise AI Governance Program alig
 
 These functions are iterative and support continuous improvement rather than a sequential implementation process.
 
-> For the full AI risk lifecycle including ownership and escalation criteria, see [03-AI-Risk-Register — Risk Lifecycle](../03-AI-Risk-Register/README.md).
+> For the full AI risk lifecycle including ownership and escalation criteria, see [03-AI-Risk-Register — Risk Lifecycle](03-AI-Risk-Register.md).
 
 ---
 
