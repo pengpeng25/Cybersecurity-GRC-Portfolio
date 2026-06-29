@@ -1,7 +1,7 @@
 # 08 — Executive Dashboard: AI Governance Metrics
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [03-AI-Risk-Register](../03-AI-Risk-Register/README.md) · [06-Vendor-Risk-Assessment](../06-Vendor-Risk-Assessment/README.md) · [05-ISO42001-Gap-Assessment](../05-ISO42001-Gap-Assessment/README.md)
+> Source: [03-AI-Risk-Register](03-AI-Risk-Register.md) · [06-Vendor-Risk-Assessment](06-Vendor-Risk-Assessment.md) · [05-ISO42001-Gap-Assessment](05-ISO42001-Gap-Assessment.md)
 > Frameworks: NIST AI RMF · ISO/IEC 42001
 > Reporting Period: Q3 2026
 
