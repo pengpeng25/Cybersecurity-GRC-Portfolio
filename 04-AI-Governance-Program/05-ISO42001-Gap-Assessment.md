@@ -1,7 +1,7 @@
 # 05 — ISO/IEC 42001 Gap Assessment
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [01-AI-Inventory](../01-AI-Inventory/README.md) · [02-AI-Risk-Assessments](../02-AI-Risk-Assessments/README.md) · [03-AI-Risk-Register](../03-AI-Risk-Register/README.md) · [04-NIST-AI-RMF-Mapping](../04-NIST-AI-RMF-Mapping/README.md)
+> Source: [01-AI-Inventory](01-AI-Inventory.md) · [02-AI-Risk-Assessments](02-AI-Risk-Assessments.md) · [03-AI-Risk-Register](03-AI-Risk-Register.md) · [04-NIST-AI-RMF-Mapping](04-NIST-AI-RMF-Mapping.md)
 > Framework: ISO/IEC 42001:2023 Artificial Intelligence Management System (AIMS)
 
 ---
@@ -102,18 +102,6 @@ This is a readiness review, not a certification audit.
 | Phase 3 | Q1 2027 | AI Governance Committee Establishment |
 | Phase 3 | Q1 2027 | AI Control Automation |
 
----
-
-## Cross-Framework Alignment
-
-| ISO/IEC 42001 Objective | Portfolio Evidence | NIST AI RMF Function |
-|------------------------|-------------------|---------------------|
-| Governance Structure | 07-AI-Governance-Policy | Govern |
-| AI Inventory | 01-AI-Inventory | Map |
-| Risk Assessment | 02-AI-Risk-Assessments | Measure |
-| Risk Treatment | 03-AI-Risk-Register | Manage |
-| Third-Party AI | 06-Vendor-Risk-Assessment | Map · Manage |
-| Continuous Improvement | 09-Control-Improvement-Roadmap | Govern · Manage |
 
 ---
 
@@ -127,4 +115,4 @@ The highest-priority improvements are AI incident response procedures and contin
 
 ---
 
-*Last updated: 2026-06-26 · Owner: GRC Team · Next review: 2026-09-26*
+*Last updated: 2026-06-26*
