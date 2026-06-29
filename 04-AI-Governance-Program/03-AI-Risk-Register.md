@@ -1,7 +1,7 @@
 # 03 — AI Risk Register
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Source: [01-AI-Inventory](../01-AI-Inventory/README.md) · [02-AI-Risk-Assessments](../02-AI-Risk-Assessments/README.md)
+> Source: [01-AI-Inventory](01-AI-Inventory.md) · [02-AI-Risk-Assessments](02-AI-Risk-Assessments.md)
 > Frameworks: ISO/IEC 42001 · NIST AI RMF · OWASP LLM Top 10 (2025) · ISO/IEC 27001
 
 ---
@@ -185,12 +185,12 @@ This appendix documents the AI-specific attack techniques that informed risk ide
 
 | Document | How it references this register |
 |----------|--------------------------------|
-| `04-NIST-AI-RMF-Mapping` | Risk entries map to Govern / Map / Measure / Manage functions |
-| `05-ISO42001-Gap-Assessment` | Risk treatment status informs control gap identification |
-| `06-Vendor-Risk-Assessment` | RISK-006, RISK-007 feed directly into vendor assessment scope |
-| `08-Executive-Dashboard` | Risk metrics and treatment progress feed leadership reporting |
-| `09-Control-Improvement-Roadmap` | Open risks and planned treatments inform the improvement timeline |
+| [04-NIST-AI-RMF-Mapping](04-NIST-AI-RMF-Mapping.md) | Risk entries map to Govern / Map / Measure / Manage functions |
+| [05-ISO42001-Gap-Assessment](05-ISO-42001-Gap-Assessment.md) | Risk treatment status informs control gap identification |
+| [06-Vendor-Risk-Assessment](06-Vendor-Risk-Assessment.md) | RISK-006, RISK-007 feed directly into vendor assessment scope |
+| [08-Executive-Dashboard](08-Dashboard.md) | Risk metrics and treatment progress feed leadership reporting |
+| [09-Control-Improvement-Roadmap](09-Improvement-Roadmap.md) | Open risks and planned treatments inform the improvement timeline |
 
 ---
 
-*Last updated: 2026-06-26 · Owner: GRC Team · Next review: 2026-09-26*
+*Last updated: 2026-06-26*
