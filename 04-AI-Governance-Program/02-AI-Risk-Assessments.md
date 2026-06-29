@@ -1,7 +1,7 @@
 # 02 — AI Risk Assessments
 
 > **SimulFlow S.r.l.** *(Fictional Organization)*
-> Assessment scope: All AI systems identified in [01-AI-Inventory](/01-AI-Inventory.md)
+> Assessment scope: All AI systems identified in [01-AI-Inventory](01-AI-Inventory.md)
 > Methodology: Structured enterprise risk assessment · NIST AI RMF · OWASP LLM Top 10 (2025)
 
 ---
